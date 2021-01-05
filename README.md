@@ -1,4 +1,4 @@
-![Header image](https://raw.githubusercontent.com/chanSTACK18/chanSTACK18/main/cover/cover1.png)
+![Header image](https://raw.githubusercontent.com/chanSTACK18/chanSTACK18/main/cover/cover.png)
 
 ### Hi there, I'm Chandan - aka [chanSTACK18][website] 👋
 
