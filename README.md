@@ -1,6 +1,7 @@
 ![Header image](https://raw.githubusercontent.com/chanSTACK18/chanSTACK18/main/cover/cover.png)
 
-### Hi there, I'm Chandan - aka [chanSTACK18][website] ![Dog gif](https://raw.githubusercontent.com/chanSTACK18/chanSTACK18/main/img/tenor.gif)
+### Hi there, I'm Chandan - aka [chanSTACK18][website] 
+                                                         ![Dog gif](https://raw.githubusercontent.com/chanSTACK18/chanSTACK18/main/img/tenor.gif)
 
 ## I'm a Developer, Pentester and Freelancer!
 
