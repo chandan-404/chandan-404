@@ -1,10 +1,9 @@
 <!-- ![Header image](https://raw.githubusercontent.com/chanSTACK18/chanSTACK18/main/cover/cover.png) -->
 <p align="center">
-  <img width="1220" height="720" src="https://raw.githubusercontent.com/chanSTACK18/chanSTACK18/main/cover/cover.png">
+  <img width="900" height="120" src="https://raw.githubusercontent.com/chanSTACK18/chanSTACK18/main/cover/cover.png">
 </p>
-<p align="center">
-  ### Hi there, I'm Chandan - aka [chanSTACK18][website]
-</p>
+
+### Hi there, I'm Chandan - aka [chanSTACK18][website]
  
 <p align="center">
   <img width="177" height="183" src="https://raw.githubusercontent.com/chanSTACK18/chanSTACK18/main/img/tenor.gif">
