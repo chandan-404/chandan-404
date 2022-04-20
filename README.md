@@ -1,6 +1,6 @@
 <!-- ![Header image](https://raw.githubusercontent.com/chanSTACK18/chanSTACK18/main/cover/cover.png) -->
 <p align="center">
-  <img width="900" height="120" src="https://raw.githubusercontent.com/chanSTACK18/chanSTACK18/main/cover/cover.png">
+  <img width="900" height="320" src="https://raw.githubusercontent.com/chanSTACK18/chanSTACK18/main/cover/cover.png">
 </p>
 
 ### Hi there, I'm Chandan - aka [chanSTACK18][website]
