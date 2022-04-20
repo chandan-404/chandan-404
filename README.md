@@ -27,7 +27,7 @@
 
 <hr>
 
-[![Chandan's github stats](https://github-readme-states.vercel.app/api?username=chandanm-sys&theme=vue&show_icons=true)](https://github.com/chandanm-sys/github-readme-stats)
+[![Chandan's github stats](https://github-readme-states.vercel.app/api?username=chanSTACK18&theme=vue&show_icons=true)](https://github.com/chanSTACK18/github-readme-stats)
 
 [website]: https://chanstack18.github.io/
 [instagram]: https://www.instagram.com/mr.chandan_x/
